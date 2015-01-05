@@ -1,0 +1,9 @@
+c:\users\chema\documents\visual studio 2012\Projects\respaldoSQL\respaldoSQL\bin\Debug\respaldoSQL.exe.config
+c:\users\chema\documents\visual studio 2012\Projects\respaldoSQL\respaldoSQL\bin\Debug\respaldoSQL.exe
+c:\users\chema\documents\visual studio 2012\Projects\respaldoSQL\respaldoSQL\bin\Debug\respaldoSQL.pdb
+c:\users\chema\documents\visual studio 2012\Projects\respaldoSQL\respaldoSQL\obj\Debug\respaldoSQL.csprojResolveAssemblyReference.cache
+c:\users\chema\documents\visual studio 2012\Projects\respaldoSQL\respaldoSQL\obj\Debug\respaldoSQL.Form1.resources
+c:\users\chema\documents\visual studio 2012\Projects\respaldoSQL\respaldoSQL\obj\Debug\respaldoSQL.Properties.Resources.resources
+c:\users\chema\documents\visual studio 2012\Projects\respaldoSQL\respaldoSQL\obj\Debug\respaldoSQL.csproj.GenerateResource.Cache
+c:\users\chema\documents\visual studio 2012\Projects\respaldoSQL\respaldoSQL\obj\Debug\respaldoSQL.exe
+c:\users\chema\documents\visual studio 2012\Projects\respaldoSQL\respaldoSQL\obj\Debug\respaldoSQL.pdb
